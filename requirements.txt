@@ -1,0 +1,7 @@
+azure-ai-ml
+azure-identity
+#datasets==2.9.0
+datasets
+mlflow
+azureml-mlflow
+python-dotenv
